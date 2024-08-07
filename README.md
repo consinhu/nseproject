@@ -1,4 +1,4 @@
-# OESON Internship Projects
+# OESON Internship Project 1
 
 <h2>Network Scanning, Information Gathering, and Nmap Scripting</h2>
 
